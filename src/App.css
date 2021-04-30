@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.wrapperClassName {
+  max-width: 650px;
+  margin: 0 auto;
+
+}
+.editorClassName {
+  /*border: 1px solid black;*/
+  background-color: lightgrey;
+}
+body {
+  background: gray;
+}
+
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.bl {
+  color: red;
+}
